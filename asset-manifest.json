@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactTextuuper/static/css/main.1547c7c7.css",
+    "main.js": "/reactTextuuper/static/js/main.14f16846.js",
+    "index.html": "/reactTextuuper/index.html",
+    "main.1547c7c7.css.map": "/reactTextuuper/static/css/main.1547c7c7.css.map",
+    "main.14f16846.js.map": "/reactTextuuper/static/js/main.14f16846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1547c7c7.css",
+    "static/js/main.14f16846.js"
+  ]
+}
